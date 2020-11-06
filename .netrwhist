@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/etc/X11/xinit/xinitrc.d'
+let g:netrw_dirhist_3='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_2='/etc/X11/xinit'
+let g:netrw_dirhist_1='/usr/share/xsessions'
+let g:netrw_dirhist_0='/home/scott/.scripts/memefetch'
+let g:netrw_dirhist_9='/var/log/journal/f2c57879d6494fc69e93773585e55d06'
+let g:netrw_dirhist_8='/home/scott/.config/awesome/themes/holo'
+let g:netrw_dirhist_7='/home/scott/.newsboat'
+let g:netrw_dirhist_6='/home/scott/.cointop'
+let g:netrw_dirhist_5='/home/scott'
